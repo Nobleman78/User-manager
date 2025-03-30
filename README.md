@@ -1,9 +1,9 @@
 #Simple User Management Website
 # For Backend
 # Command You have to follow
-1. type mkdir simple-user-server
-2. type cd simple-user-server
-3. type npm init -y
+1. mkdir simple-user-server
+2. cd simple-user-server
+3. npm init -y
 # After this Go to VS code 
 1. Open Package.JSON
 2. Then -> "scripts": {
